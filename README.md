@@ -1,47 +1,70 @@
-# Fullstack Challenge
+# Getting Started with Create React App
 
-## Design/Screens
-https://www.figma.com/file/KFElqzD983WNyvMY1SaF0c/book-app?node-id=0%3A1
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Como rodar:
+## Available Scripts
 
-- Clone this repository
-- Open the repository path you choose on terminal
-- This project uses ReactJS, NodeJS and MongoDB. Please install all external depencies
-- Install projects inner depencies by running "npm install" on each folder
-- Type "npm run servers" to run front-end app and back-end server
-- Have fun adding new books to this simple book shelf :)
+In the project directory, you can run:
 
-## Requisitos:
+### `npm start`
 
-https://github.com/FotonTech/fullstack-challenge (check here for more detailed requisites)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Basically the website design has 4 screens, which are:
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-### Home, Search, Books Details, New Book
+### `npm test`
 
-#### Horários:
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Quarta: 11h - 13h / 14h - 19h / 20h - 23h = 10 horas
+### `npm run build`
 
-Quinta: 10:30h - 12:30h / 14h - 20h / 21h - 02h = 13 horas
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Sexta: 08h - 12:30h / 14h - 16h = 6:30h
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Sábado: 15:30h - 19:30h / 21h - 23h / 02h - 04h = 8 horas
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Domingo: 15h - 20h / 21h - 23:30h / 02h - 04h = 10:30 horas
+### `npm run eject`
 
-Segunda: 18h - 20h / 21h - 03h = 8 horas
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Terça: 18h - 20h / 21h - 03h = 9 horas
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Quarta: 18h - 20h / 21:30h - 23h / 02h - 04h = 5:30 horas
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-Quinta: 18h - 00h / 02h - 04:30h = 6:30 horas
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-Total: 77 horas
+## Learn More
 
-...
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-#### Made by Lucas Cyrne
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
